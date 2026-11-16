@@ -1,0 +1,6 @@
+/runtime_build/
+__pycache__/
+*.py[cod]
+*.asv
+*.mat
+!/fibprops.mat
